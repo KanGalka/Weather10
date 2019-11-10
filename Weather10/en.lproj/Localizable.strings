@@ -1,0 +1,11 @@
+/* 
+  Localizable.string.strings
+  Weather10
+
+  Created by Наталья Чушкина on 09.11.2019.
+  Copyright © 2019 Наталья Чушкина. All rights reserved.
+*/
+
+// название файла должно быть СТРОГО таким . Тока с запятой обязательна!
+
+"button.title" = "Сделать запрос";
